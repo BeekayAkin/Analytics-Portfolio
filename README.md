@@ -16,7 +16,7 @@ HR Analytics Data: The primary dataset used for this analysis is the "HR Analyti
 ### Data Cleaning / Preparation
 
 in the initial data preparation phase, i performed the following tasks:
-- Data loading and isnpection.
+- Data loading and inspection.
 - Use Split column function to change the data from CSV format to excel fromat.
 - Made first row the table header.
 - Handling missing values.
